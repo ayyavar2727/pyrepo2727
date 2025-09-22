@@ -4,3 +4,6 @@ b = 12
 # Adding two numbers
 res = a + b
 print(res)
+adding another two numbers
+res = a + b
+print(res)
